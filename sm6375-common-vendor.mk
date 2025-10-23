@@ -805,6 +805,7 @@ PRODUCT_PACKAGES += \
     adpl \
     adsprpcd \
     cdsprpcd \
+    charge_only_mode \
     cnd \
     cnss-daemon \
     diag-router \
